@@ -7,7 +7,6 @@ AI Enthusiast | Data Scientist
 
 * 🌍  I'm based in Jaipur, Rajasthan
 * ✉️  You can contact me at [harshitkumar454@gmail.com](mailto:harshitkumar454@gmail.com)
-* 🧠  I'm learning ReactJS and Web 3.0 Technologies
 * 🤝  I'm open to collaborating on Deep Learning Projects
 
 ### Skills
