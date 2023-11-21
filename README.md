@@ -2,7 +2,7 @@
 Hi 👋 My name is Harshit Kumar
 ==============================
 
-AI Enthusiast | Data Scientist
+AI Enthusiast | Data Scientist | Python Developer
 ------------------------------
 
 * 🌍  I'm based in Jaipur, Rajasthan
